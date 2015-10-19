@@ -1,5 +1,8 @@
+package primefactors;
+
 import com.google.common.collect.Lists;
 import org.junit.Test;
+import primefactors.PrimeFactors;
 
 import java.util.List;
 

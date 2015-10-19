@@ -1,5 +1,7 @@
+package tennis;
+
 import org.junit.Before;
-import org.junit.Test;
+import tennis.TennisGame;
 
 import static org.junit.Assert.assertEquals;
 

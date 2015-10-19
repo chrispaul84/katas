@@ -1,3 +1,5 @@
+package tennis;
+
 public class TennisGame {
 
     private String player1;
